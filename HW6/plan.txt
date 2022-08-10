@@ -1,0 +1,18 @@
+START WITH SPORCLE.TXT
+TWONOT1.TXT
+CUSTOM1.TXT
+Create a zone class:
+   - Char zone letter
+   - row   
+   - cols
+   - create a vector<vector<char>> of the zone
+Grid class:
+   - list of zones
+   - create a vector<vector<char>> of all zones as
+     an entire grid
+   - rows
+   - cols
+
+   - member function to solve grid
+
+	

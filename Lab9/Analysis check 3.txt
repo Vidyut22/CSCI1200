@@ -1,0 +1,20 @@
+vector
+add -> O(N)
+identify -> O(N)
+
+memory -> O(max)
+
+
+
+map
+
+add- >O(logn)
+
+identify->O(logn)
+
+memory->o(n)
+
+map takes up less memory and is faster. Although
+will always take o(logn)
+
+on a small list vector would be better

@@ -1,0 +1,26 @@
+table_size 100
+occupancy 0.65
+movies 3k_example_movies.txt
+actors 3k_example_actors.txt
+query
+?
+2016
+?
+2 Comedy Drama
+0
+0
+query
+Lucía,_Lucía
+2003
+110
+3 Adventure Comedy Crime
+4 nm0005386 nm0959614 nm0065493 nm0410609
+4 Lucía Félix Adrián Lucía's_mom
+query
+?
+?
+?
+0
+0
+0
+quit

@@ -1,0 +1,1 @@
+go up and if coming from right child do nothing, if coming from left child then add the right subtree to the new tree until reached the top of tree (parent == null)

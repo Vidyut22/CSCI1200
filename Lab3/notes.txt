@@ -1,0 +1,12 @@
+Include algo
+#ifndef
+
+sort is not part of std
+gradient *-1 is not necessary as previous line converts to absolute value
+set i to int not insigned int line 39 road.cpp
+need to return something at end incase values are equal line.cpp line 40
+Not returning by reference line 12 roads.cpp as i am returning a local vector on Line objects
+point.cpp line 24 return answer instead of rise/run
+
+
+initialize count to 0 in roads.cpp

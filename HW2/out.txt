@@ -1,0 +1,45 @@
+Day Monday
+Dept  Coursenum  Class Title                  Start Time  End Time
+----  ---------  ---------------------------  ----------  --------
+BIOL  2500-01    GENETICS_&_EVOLUTION         10:00AM     11:50AM 
+ECSE  2010-02    ELECTRIC_CIRCUITS            12:00PM     01:50PM 
+ECSE  2050-03    INTRODUCTION_TO_ELECTRONICS  02:00PM     03:50PM 
+ECSE  2500-01    ENGINEERING_PROBABILITY      04:00PM     05:20PM 
+4 entries
+
+Day Tuesday
+Dept  Coursenum  Class Title                    Start Time  End Time
+----  ---------  -----------------------------  ----------  --------
+PSYC  2730-01    SOCIAL_PSYCHOLOGY              08:00AM     09:50AM 
+PHYS  2210-01    QUANTUM_PHYSICS_I              10:00AM     11:50AM 
+MATH  1500-02    CALC_I_FOR_ARCH,_MGMT_&_HASS   12:00PM     01:20PM 
+ECON  2020-03    INTERMEDIATE_MACROECON_THEORY  02:00PM     03:50PM 
+ADMN  1824-01    STUDENT_SUCCESS_LABS           04:00PM     04:50PM 
+5 entries
+
+Day Wednesday
+Dept  Coursenum  Class Title             Start Time  End Time
+----  ---------  ----------------------  ----------  --------
+ENGR  4010-03    PROFESSIONAL_DEVEL_III  10:00AM     11:50AM 
+ENGR  4010-04    PROFESSIONAL_DEVEL_III  12:00PM     01:50PM 
+ENGR  4010-05    PROFESSIONAL_DEVEL_III  02:00PM     03:50PM 
+3 entries
+
+Day Thursday
+Dept  Coursenum  Class Title                  Start Time  End Time
+----  ---------  ---------------------------  ----------  --------
+BIOL  2500-01    GENETICS_&_EVOLUTION         10:00AM     11:50AM 
+ECSE  2010-02    ELECTRIC_CIRCUITS            12:00PM     01:50PM 
+ECSE  2050-03    INTRODUCTION_TO_ELECTRONICS  02:00PM     03:50PM 
+ECSE  2500-01    ENGINEERING_PROBABILITY      04:00PM     05:20PM 
+4 entries
+
+Day Friday
+Dept  Coursenum  Class Title                    Start Time  End Time
+----  ---------  -----------------------------  ----------  --------
+PSYC  2730-01    SOCIAL_PSYCHOLOGY              08:00AM     09:50AM 
+PHYS  2210-01    QUANTUM_PHYSICS_I              10:00AM     11:50AM 
+MATH  1500-02    CALC_I_FOR_ARCH,_MGMT_&_HASS   12:00PM     01:20PM 
+ECON  2020-03    INTERMEDIATE_MACROECON_THEORY  02:00PM     03:50PM 
+4 entries
+

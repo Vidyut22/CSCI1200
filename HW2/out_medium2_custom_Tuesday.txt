@@ -1,0 +1,51 @@
+Day Tuesday
+Dept           Coursenum  Class Title                     Start Time  End Time
+-------------  ---------  ------------------------------  ----------  --------
+chemistry      1100-05    CHEMISTRY_I                     08:00AM     10:50AM 
+chemistry      1100-06    CHEMISTRY_I                     08:00AM     09:20AM 
+chemistry      1100-10    CHEMISTRY_I                     08:00AM     09:20AM 
+chemistry      1100-12    CHEMISTRY_I                     08:00AM     09:20AM 
+chemistry      1100-13    CHEMISTRY_I                     08:00AM     09:20AM 
+chemistry      1100-16    CHEMISTRY_I                     08:00AM     09:20AM 
+chemistry      1110-02    CHEMISTRY_I_WITH_ADVANCED_LAB   08:00AM     09:20AM 
+interdisc      1973-01    HUMAN_RIGHTS_IN_HISTORY         08:00AM     09:50AM 
+interdisc      1966-01    MUSIC_AND_PROTEST               08:00AM     09:50AM 
+chemistry      1100-04    CHEMISTRY_I                     10:00AM     11:20AM 
+chemistry      1100-06    CHEMISTRY_I                     10:00AM     10:50AM 
+chemistry      1100-09    CHEMISTRY_I                     10:00AM     11:20AM 
+chemistry      1100-11    CHEMISTRY_I                     10:00AM     11:20AM 
+chemistry      1100-14    CHEMISTRY_I                     10:00AM     11:20AM 
+chemistry      1100-17    CHEMISTRY_I                     10:00AM     11:20AM 
+chemistry      1110-01    CHEMISTRY_I_WITH_ADVANCED_LAB   10:00AM     11:20AM 
+interdisc      1974-01    DESIGN_AS_A_GLOBAL_CHALLENGE    10:00AM     11:50AM 
+interdisc      1972-01    GREAT_IDEAS_IN_PHILOSOPHY       10:00AM     11:50AM 
+earth_science  2960-01    INTRO_TO_GEOBIOLOGY             10:00AM     11:50AM 
+interdisc      1963-01    TECH_&_SOCIAL_INTER_IN_US       10:00AM     11:50AM 
+interdisc      1976-01    THE_GENOME_AND_YOU              10:00AM     11:50AM 
+chemistry      1100-05    CHEMISTRY_I                     11:00AM     11:50AM 
+chemistry      1100-06    CHEMISTRY_I                     11:00AM     01:50PM 
+interdisc      1410-01    CENTURY_OF_THE_GENE             12:00PM     01:50PM 
+chemistry      1100-05    CHEMISTRY_I                     12:00PM     01:20PM 
+chemistry      1100-07    CHEMISTRY_I                     12:00PM     01:20PM 
+chemistry      1100-08    CHEMISTRY_I                     12:00PM     01:20PM 
+chemistry      1100-15    CHEMISTRY_I                     12:00PM     01:20PM 
+chemistry      1100-18    CHEMISTRY_I                     12:00PM     01:20PM 
+chemistry      1110-03    CHEMISTRY_I_WITH_ADVANCED_LAB   12:00PM     01:20PM 
+earth_science  4710-01    GROUNDWATER_HYDROLOGY           12:00PM     01:50PM 
+interdisc      1979-01    RACE,_CLASS,_GENDER_AND_TECH    12:00PM     01:50PM 
+chemistry      1100-07    CHEMISTRY_I                     02:00PM     04:50PM 
+1337           1200-01    DATA_STRUCTURES                 02:00PM     03:50PM 
+1337           1200-02    DATA_STRUCTURES                 02:00PM     03:50PM 
+1337           1200-03    DATA_STRUCTURES                 02:00PM     03:50PM 
+1337           1200-04    DATA_STRUCTURES                 02:00PM     03:50PM 
+1337           1200-05    DATA_STRUCTURES                 02:00PM     03:50PM 
+1337           1200-06    DATA_STRUCTURES                 02:00PM     03:50PM 
+1337           1200-07    DATA_STRUCTURES                 02:00PM     03:50PM 
+1337           1200-08    DATA_STRUCTURES                 02:00PM     03:50PM 
+1337           1200-09    DATA_STRUCTURES                 02:00PM     03:50PM 
+1337           1200-10    DATA_STRUCTURES                 02:00PM     03:50PM 
+interdisc      1980-01    SOCIOLGY_OF_INEQUAL_IN_U.S.SOC  02:00PM     03:50PM 
+chemistry      1100-07    CHEMISTRY_I                     05:00PM     05:50PM 
+chemistry      1100-18    CHEMISTRY_I                     05:00PM     07:50PM 
+46 entries
+
